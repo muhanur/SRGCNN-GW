@@ -1,4 +1,4 @@
-# SRGCNN
+# SRGCNN-GW
 Spatial regression graph convolutional neural networks (SRGCNNs) as a deep learning paradigm that is capable of handling a wide range of geographical tasks
 where multivariate geographic data needs spatial regression modeling and prediction.
 
