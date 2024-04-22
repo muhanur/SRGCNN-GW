@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+geopandas
+seaborn
+torch==1.10.0+cu111
+pysal
